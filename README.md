@@ -41,15 +41,19 @@ The robot uses four cables to control the position of a moving platform in a pla
 - `results/`: Experimental results and images
 
 ## 6. Results
-<img width="2048" height="1152" alt="CDPR" src="https://github.com/user-attachments/assets/f7a7efbd-7a32-48a6-9b8e-b57b0e60bad9" />
+
 <img width="1537" height="857" alt="CDPR_3D" src="https://github.com/user-attachments/assets/f5e72a13-9be1-4c9e-b3b1-0d66fc64b07d" />
+<img width="2048" height="1152" alt="CDPR" src="https://github.com/user-attachments/assets/f7a7efbd-7a32-48a6-9b8e-b57b0e60bad9" />
 
 https://github.com/user-attachments/assets/3d3e3154-1d26-4343-8fc7-3aaefd6ffb5f
 
 
 
 
+
+
 https://github.com/user-attachments/assets/fea0d65c-c6a9-494e-9823-e97bd7a5128
+
 
 
 
