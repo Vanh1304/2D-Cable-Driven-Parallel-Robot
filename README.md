@@ -1,6 +1,3 @@
-<img width="1537" height="857" alt="CDPR_3D" src="https://github.com/user-attachments/assets/520d109b-7010-4e34-bc59-ef2954aadb09" /><img width="1537" height="857" alt="CDPR_3D" src="https://github.com/user-attachments/assets/55d2bb39-71a1-4f0d-86f4-ecf233e9bf74" /><img width="1537" height="857" alt="CDPR_3D" src="https://github.com/user-attachments/assets/0d579319-a9ab-4a4d-b872-e1774fa0bbb4" />
-<img width="1537" height="857" alt="CDPR_3D" src="https://github.com/user-attachments/assets/e12d27d6-64c6-42f7-9f17-ee90618473df" />
-<img width="1537" height="857" alt="CDPR_3D" src="https://github.com/user-attachments/assets/9548db4e-2652-4fba-a3ee-be143add95c3" />
 # Design and Control of a 2D Cable-Driven Parallel Robot
 
 ## 1. Project Overview
