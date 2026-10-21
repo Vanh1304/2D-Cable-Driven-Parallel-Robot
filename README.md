@@ -45,16 +45,14 @@ The robot uses four cables to control the position of a moving platform in a pla
 <img width="1537" height="857" alt="CDPR_3D" src="https://github.com/user-attachments/assets/f5e72a13-9be1-4c9e-b3b1-0d66fc64b07d" />
 <img width="2048" height="1152" alt="CDPR" src="https://github.com/user-attachments/assets/f7a7efbd-7a32-48a6-9b8e-b57b0e60bad9" />
 
-https://github.com/user-attachments/assets/3d3e3154-1d26-4343-8fc7-3aaefd6ffb5f
 
 
 
+https://github.com/user-attachments/assets/7a3943b4-31d3-4a99-8c45-8a7e5836acf3
 
 
 
-
-
-https://github.com/user-attachments/assets/fea0d65c-c6a9-494e-9823-e97bd7a5128
+https://github.com/user-attachments/assets/fbfc7dbf-12c4-46bc-883b-d3e086ad5f09
 
 
 
@@ -66,8 +64,11 @@ https://github.com/user-attachments/assets/fea0d65c-c6a9-494e-9823-e97bd7a5128
 
 
 <img width="711" height="454" alt="Results_of_coordinates_Experiment" src="https://github.com/user-attachments/assets/5f26468d-1df4-46d7-a0be-541b73222f21" />
+
 <img width="520" height="398" alt="The compare between the desired position and the real position" src="https://github.com/user-attachments/assets/aa16c0b3-213e-4b44-bd16-137b6ab7bb5b" />
+
 <img width="2779" height="1242" alt="ket_qua_square" src="https://github.com/user-attachments/assets/1c4c854c-e5a2-4e27-bd64-f3b985972302" />
+
 <img width="2779" height="1242" alt="ket_qua_circle" src="https://github.com/user-attachments/assets/95902ea1-16b3-4fd9-8b63-b552cb76482d" />
 
 ## 7. Tools
