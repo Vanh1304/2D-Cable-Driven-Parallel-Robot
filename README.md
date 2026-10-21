@@ -42,7 +42,6 @@ The robot uses four cables to control the position of a moving platform in a pla
 
 ## 6. Results
 
-<img width="658" height="366" alt="Average error measurement position" src="https://github.com/user-attachments/assets/d5a975e9-0ff4-497f-adca-242cab8f888c" />
 <img width="711" height="454" alt="Results_of_coordinates_Experiment" src="https://github.com/user-attachments/assets/5f26468d-1df4-46d7-a0be-541b73222f21" />
 <img width="520" height="398" alt="The compare between the desired position and the real position" src="https://github.com/user-attachments/assets/aa16c0b3-213e-4b44-bd16-137b6ab7bb5b" />
 <img width="2779" height="1242" alt="ket_qua_square" src="https://github.com/user-attachments/assets/1c4c854c-e5a2-4e27-bd64-f3b985972302" />
