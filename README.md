@@ -53,6 +53,8 @@ https://github.com/user-attachments/assets/fea0d65c-c6a9-494e-9823-e97bd7a5128
 
 
 
+
+
 <img width="711" height="454" alt="Results_of_coordinates_Experiment" src="https://github.com/user-attachments/assets/5f26468d-1df4-46d7-a0be-541b73222f21" />
 <img width="520" height="398" alt="The compare between the desired position and the real position" src="https://github.com/user-attachments/assets/aa16c0b3-213e-4b44-bd16-137b6ab7bb5b" />
 <img width="2779" height="1242" alt="ket_qua_square" src="https://github.com/user-attachments/assets/1c4c854c-e5a2-4e27-bd64-f3b985972302" />
